@@ -1,4 +1,8 @@
-### Hi there 👋
+### Dr. Johannes Pohl
+[<img src="https://img.shields.io/badge/jopohl%20-%20linkedin?style=for-the-badge&logo=linkedin&labelColor=blue&color=black">](https://www.linkedin.com/in/jopohl/)
+[<img src="https://img.shields.io/badge/jpohls1%20-%20jpohls1?style=for-the-badge&logo=github&labelColor=black&color=purple">](https://github.com/jpohls1)
+[<img src="https://img.shields.io/badge/jopohl%20-%20jopohl?style=for-the-badge&logo=github&labelColor=black&color=blue">](https://github.com/jopohl)
+
 
 <!--
 **jopohl/jopohl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
